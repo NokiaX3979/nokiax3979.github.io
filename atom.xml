@@ -3,11 +3,11 @@
   <title>NokiaX的空间</title>
   
   <subtitle>学STR（划</subtitle>
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <link href="http://nokiax3979.github.io/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
-  <updated>2022-10-29T09:01:41.548Z</updated>
-  <id>http://example.com/</id>
+  <link href="http://nokiax3979.github.io/"/>
+  <updated>2022-10-29T09:04:20.924Z</updated>
+  <id>http://nokiax3979.github.io/</id>
   
   <author>
     <name>NokiaX</name>
@@ -18,32 +18,32 @@
   
   <entry>
     <title>Use</title>
-    <link href="http://example.com/2022/10/29/Use/"/>
-    <id>http://example.com/2022/10/29/Use/</id>
+    <link href="http://nokiax3979.github.io/2022/10/29/Use/"/>
+    <id>http://nokiax3979.github.io/2022/10/29/Use/</id>
     <published>2022-10-29T08:27:29.000Z</published>
-    <updated>2022-10-29T09:01:41.548Z</updated>
+    <updated>2022-10-29T09:04:20.924Z</updated>
     
-    <content type="html"><![CDATA[<h2 id="Test"><a href="#Test" class="headerlink" title="Test"></a>Test</h2><p><del>ѧstr���˸�Git Pages</del><br><img src="/%5CQQPic20220723171211.jpg" alt="��~~��~~"></p>]]></content>
+    <content type="html"><![CDATA[<h2 id="Test"><a href="#Test" class="headerlink" title="Test"></a>Test</h2><p><del>学str建了个Git Pages</del><br><img src="/%5CQQPic20220723171211.jpg" alt="（~~划~~"></p>]]></content>
     
     
       
       
-    <summary type="html">&lt;h2 id=&quot;Test&quot;&gt;&lt;a href=&quot;#Test&quot; class=&quot;headerlink&quot; title=&quot;Test&quot;&gt;&lt;/a&gt;Test&lt;/h2&gt;&lt;p&gt;&lt;del&gt;ѧstr���˸�Git Pages&lt;/del&gt;&lt;br&gt;&lt;img src=&quot;/%5CQQPic2022072317</summary>
+    <summary type="html">&lt;h2 id=&quot;Test&quot;&gt;&lt;a href=&quot;#Test&quot; class=&quot;headerlink&quot; title=&quot;Test&quot;&gt;&lt;/a&gt;Test&lt;/h2&gt;&lt;p&gt;&lt;del&gt;学str建了个Git Pages&lt;/del&gt;&lt;br&gt;&lt;img src=&quot;/%5CQQPic202207231712</summary>
       
     
     
     
-    <category term="1" scheme="http://example.com/categories/1/"/>
+    <category term="1" scheme="http://nokiax3979.github.io/categories/1/"/>
     
     
-    <category term="Test" scheme="http://example.com/tags/Test/"/>
+    <category term="Test" scheme="http://nokiax3979.github.io/tags/Test/"/>
     
   </entry>
   
   <entry>
     <title>Hello World</title>
-    <link href="http://example.com/2022/10/28/hello-world/"/>
-    <id>http://example.com/2022/10/28/hello-world/</id>
+    <link href="http://nokiax3979.github.io/2022/10/28/hello-world/"/>
+    <id>http://nokiax3979.github.io/2022/10/28/hello-world/</id>
     <published>2022-10-28T12:50:08.713Z</published>
     <updated>2022-10-29T01:13:07.367Z</updated>
     

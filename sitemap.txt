@@ -1,7 +1,7 @@
-http://example.com/2022/10/29/Use/
-http://example.com/tags/index.html
-http://example.com/categories/index.html
-http://example.com/2022/10/28/hello-world/
-http://example.com/
-http://example.com/tags/Test/
-http://example.com/categories/1/
+http://nokiax3979.github.io/2022/10/29/Use/
+http://nokiax3979.github.io/tags/index.html
+http://nokiax3979.github.io/categories/index.html
+http://nokiax3979.github.io/2022/10/28/hello-world/
+http://nokiax3979.github.io/
+http://nokiax3979.github.io/tags/Test/
+http://nokiax3979.github.io/categories/1/
