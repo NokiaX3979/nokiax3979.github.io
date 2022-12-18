@@ -65,13 +65,6 @@
 
   
   <url>
-    <loc>http://nokiax3979.github.io/tags/Surface-%E6%89%8B%E5%86%99%E7%AC%94/</loc>
-    <lastmod>2022-12-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>http://nokiax3979.github.io/tags/QQ/</loc>
     <lastmod>2022-12-18</lastmod>
     <changefreq>weekly</changefreq>
@@ -85,14 +78,14 @@
     <priority>0.2</priority>
   </url>
   
-
-  
   <url>
-    <loc>http://nokiax3979.github.io/categories/%E6%8A%98%E8%85%BE/</loc>
+    <loc>http://nokiax3979.github.io/tags/Surface-%E6%89%8B%E5%86%99%E7%AC%94/</loc>
     <lastmod>2022-12-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
+  
+
   
   <url>
     <loc>http://nokiax3979.github.io/categories/%E8%BD%AF%E4%BB%B6/</loc>
@@ -103,6 +96,13 @@
   
   <url>
     <loc>http://nokiax3979.github.io/categories/1/</loc>
+    <lastmod>2022-12-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://nokiax3979.github.io/categories/%E6%8A%98%E8%85%BE/</loc>
     <lastmod>2022-12-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
