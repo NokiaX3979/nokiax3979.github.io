@@ -6,9 +6,11 @@ http://nokiax3979.github.io/tags/index.html
 http://nokiax3979.github.io/categories/index.html
 http://nokiax3979.github.io/2022/10/28/hello-world/
 http://nokiax3979.github.io/
+http://nokiax3979.github.io/tags/%E8%BF%87%E5%B9%B4/
 http://nokiax3979.github.io/tags/Surface-%E6%89%8B%E5%86%99%E7%AC%94/
 http://nokiax3979.github.io/tags/QQ/
 http://nokiax3979.github.io/tags/Test/
+http://nokiax3979.github.io/categories/%E4%B8%80%E5%B9%B4%E4%B8%80%E6%AC%A1/
 http://nokiax3979.github.io/categories/%E6%8A%98%E8%85%BE/
 http://nokiax3979.github.io/categories/%E8%BD%AF%E4%BB%B6/
 http://nokiax3979.github.io/categories/1/

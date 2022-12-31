@@ -6,7 +6,7 @@
   <link href="http://nokiax3979.github.io/atom.xml" rel="self"/>
   
   <link href="http://nokiax3979.github.io/"/>
-  <updated>2022-12-31T16:24:58.526Z</updated>
+  <updated>2022-12-31T16:29:20.236Z</updated>
   <id>http://nokiax3979.github.io/</id>
   
   <author>
@@ -17,11 +17,11 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>2023NewYear</title>
+    <title>2023，你好！</title>
     <link href="http://nokiax3979.github.io/2023/01/01/2023NewYear/"/>
     <id>http://nokiax3979.github.io/2023/01/01/2023NewYear/</id>
     <published>2022-12-31T16:12:01.000Z</published>
-    <updated>2022-12-31T16:24:58.526Z</updated>
+    <updated>2022-12-31T16:29:20.236Z</updated>
     
     <content type="html"><![CDATA[<p>#2023 新年快乐！<br><strong>2023 Happy New Year!</strong><br><em><del>所以怎么反倒是每年的这个时候最忙啊啊啊啊啊</del></em><br><img src=".%5CDSC_2201.jpg" alt="花"></p>]]></content>
     
@@ -33,6 +33,10 @@
     
     
     
+    <category term="-一年一次" scheme="http://nokiax3979.github.io/categories/%E4%B8%80%E5%B9%B4%E4%B8%80%E6%AC%A1/"/>
+    
+    
+    <category term="过年" scheme="http://nokiax3979.github.io/tags/%E8%BF%87%E5%B9%B4/"/>
     
   </entry>
   
